@@ -19,7 +19,7 @@ function convertToRoman(num) {
   return rNum;
 }
 
-// test cases
+// algorithm test cases
 convertToRoman(2);
 convertToRoman(3);
 convertToRoman(4);
